@@ -1,0 +1,17 @@
+.form_error_msg{
+  color: red;
+}
+
+.color{
+  display: inline-block;
+  width: 30px;
+  height: 25px;
+  border: 2px solid black;
+  background: red;
+}
+.color_s{
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  background:red;
+}

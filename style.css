@@ -1,0 +1,30 @@
+.field_error{
+  color: red;
+  font-weight: 600;
+}
+.field_msg{
+  color: green;
+  font-weight: 600;
+}
+.form-output{
+  display: none;
+}
+.strong-password{
+  color: green;
+  font-weight: 600;
+}
+.medium-password{
+  color: orange;
+  font-weight: 600;
+}
+.weak-password{
+  color: red;
+  font-weight: 600;
+}
+.active_link{
+  color:#f84141b2;
+  font-weight: 600!important;
+}
+#all_massage{
+  display: none;
+}

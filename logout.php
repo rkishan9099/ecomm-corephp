@@ -1,0 +1,9 @@
+<?php
+include("config.php");
+unset($_SESSION["login"]);
+unset($_SESSION["userid"]);
+unset($_SESSION["fname"]);
+unset($_SESSION["lname"]);
+//unset($_SESSION["cart_userId"]);
+header("location:index.php");
+?>
